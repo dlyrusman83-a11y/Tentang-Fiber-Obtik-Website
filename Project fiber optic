@@ -343,8 +343,8 @@
     <!-- Bagian Beranda -->
     <section class="hero" id="beranda">
         <div class="hero-content">
-            <h1>Halo, Selamat Datang! 👋</h1>
-            <p>Ini adalah contoh website lengkap yang kamu bisa kembangkan. Desain modern, tampilan rapi, dan bisa dibuka di HP maupun komputer.</p>
+            <h1>Halo, Selamat Datang Website Kami! 👋</h1>
+            <p>Ini adalah website yang kami buat tentang fiber optic. Dan disini kami akan menjelaskan tentang fiber optic tersebut.</p>
             <a href="#tentang" class="btn btn-terang">Mulai Jelajahi</a>
             <a href="#kontak" class="btn btn-transparan">Hubungi Saya</a>
         </div>
@@ -352,7 +352,7 @@
 
     <!-- Bagian Tentang -->
     <section id="tentang">
-        <h2 class="section-title">Tentang Saya</h2>
+        <h2 class="section-title">Tentang fiber optic</h2>
         <div class="tentang-container">
             <div class="tentang-gambar"></div>
             <div class="tentang-text">
